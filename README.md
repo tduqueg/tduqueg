@@ -6,7 +6,7 @@ I'm Tomás Duque Giraldo, a passionate Computer Science student from Medellín, 
 # 🚀 About Me
 
 - 📚 Currently diving into the fascinating world of Computer Science.<br>
-- 💻 Python enthusiast, on a journey to conquer C++ next.<br>
+- 💻 Python enthusiast, on a journey to conquer other languages next.<br>
 - 🌱 Lifelong learner, always seeking new challenges and knowledge.<br>
 - 💡 Passionate about problem-solving through coding and data analysis.<br><br>
 
